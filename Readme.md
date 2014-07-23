@@ -1,4 +1,4 @@
-Welcome to StatMachine	{#about}
+Welcome to StatMachine
 =====================
 
 
